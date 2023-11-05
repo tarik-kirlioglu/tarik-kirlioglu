@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOAZ-HrGRb6LQ-0You459-0z5crDthvDLew&usqp=CAU" >
+<img src="https://25.media.tumblr.com/6be9b0b40baa790feff5a2c7645f63d3/tumblr_mtbgpa0qMD1rvcmm7o1_1280.gif" >
 
 #### About me
 

@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://64.media.tumblr.com/3538b9ac0696bc8919d1e7f14169021a/tumblr_n1j5djFPgB1sjwwzso1_500.gifv"  >
+<img src="https://www.nist.gov/sites/default/files/images/2021/05/11/DNA-1200px_0.png"  >
 
 #### About me
 

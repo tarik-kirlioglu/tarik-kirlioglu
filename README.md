@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://25.media.tumblr.com/6be9b0b40baa790feff5a2c7645f63d3/tumblr_mtbgpa0qMD1rvcmm7o1_1280.gif" >
+<img src="https://s7g10.scene7.com/is/image/biomerieux/Whole%20Genome%20Sequencing%20WGS-1?qlt=85&wid=1600&ts=1666806420143&dpr=off" >
 
 #### About me
 

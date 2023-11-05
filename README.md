@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-![Bioinformatics Data Scientist](https://i.pinimg.com/originals/10/ce/e2/10cee23a6962e079cdd63066564c713e.gif)
+![Bioinformatician](https://lh4.googleusercontent.com/16TYop70rKYf8w3P_Xn7ZQ4dItyn1E1WCKqIDt6fjIyfG6f3xqtToAtM3gxXW7Ueg2_P3vJFc8W9HetVhTgEfJf7tl8hB-6mItv5yTrBUApqR7StNw_aeIZJMW34nHI-D4V8AypH)
 
 #### About me
 

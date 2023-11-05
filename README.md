@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://cdn.the-scientist.com/assets/articleNo/68308/aImg/40799/consensus-thumb.png" >
+<img src="https://media.istockphoto.com/id/1172124252/vector/big-genomic-data-visualization.jpg?s=612x612&w=0&k=20&c=tuv5xqnaYClxn7E6bf4e2gkxHDcxt8E7j_KQGQWLYdE=" width="547" height="178" >
 
 #### About me
 

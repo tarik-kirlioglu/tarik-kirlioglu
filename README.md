@@ -4,7 +4,7 @@
 
 #### About me
 
-I am a bioinformatician who working on transcriptomic and genomic data. Overall, I really enjoy working with omics data. Moreover, molecular biology, cancer biology, and machine learning all pique my curiosity.
+I am a bioinformatician who working on transcriptomic and genomic data. Overall, I really enjoy studying with omics data. Moreover, molecular biology, cancer biology, and machine learning all pique my curiosity.
 
 #### Skills
 

@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://www.genomicseducation.hee.nhs.uk/wp-content/uploads/2020/12/data-2-858x286.jpg"  >
+<img src="https://64.media.tumblr.com/3538b9ac0696bc8919d1e7f14169021a/tumblr_n1j5djFPgB1sjwwzso1_500.gifv"  >
 
 #### About me
 

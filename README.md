@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://media.istockphoto.com/id/1172124252/vector/big-genomic-data-visualization.jpg?s=612x612&w=0&k=20&c=tuv5xqnaYClxn7E6bf4e2gkxHDcxt8E7j_KQGQWLYdE=" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOAZ-HrGRb6LQ-0You459-0z5crDthvDLew&usqp=CAU" >
 
 #### About me
 

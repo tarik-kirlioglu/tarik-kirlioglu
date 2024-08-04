@@ -16,7 +16,7 @@ As a dedicated data scientist and analyst, I thrive on transforming raw data int
 
 #### Visitor
 ![Visitor Count](https://profile-counter.glitch.me/tarik-kirlioglu/count.svg)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=tarik-kirlioglu.tarik-kirlioglu)
+![Profile views](https://Visitor-badge.laobi.icu/badge?page_id=tarik-kirlioglu.tarik-kirlioglu)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftarik-kirlioglu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 

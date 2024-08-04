@@ -16,6 +16,7 @@ As a dedicated data scientist and analyst, I thrive on transforming raw data int
 
 #### Visitor
 ![Visitor Count](https://profile-counter.glitch.me/tarik-kirlioglu/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tarik-kirlioglu)
 
 
 

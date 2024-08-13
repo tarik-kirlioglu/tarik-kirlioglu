@@ -17,8 +17,7 @@ As a dedicated data scientist and analyst, I thrive on transforming raw data int
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mysql/white" width="36" height="36" alt="SQL" /></a>
 </p>
 
-#### Visitors
-![Visitor Count](https://profile-counter.glitch.me/tarik-kirlioglu/count.svg)
+
 
 
 

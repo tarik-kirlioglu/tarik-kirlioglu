@@ -1,6 +1,4 @@
-### Hey there, I'm Tarık 👋
-
-
+### Hey there 👋
 
 #### About me
 

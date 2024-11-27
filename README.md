@@ -1,6 +1,6 @@
 ### Hey there, I'm Tarık 👋
 
-<img src="https://sfvideo.blob.core.windows.net/sitefinity/images/default-source/community-blog-images/post-hero-images/21_idt_blog_types-of-sequencing_a_840x300.png?sfvrsn=f971e407_0">
+
 
 #### About me
 
